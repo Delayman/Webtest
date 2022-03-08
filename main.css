@@ -1,0 +1,196 @@
+h1
+{
+    color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 24pt;
+    font-weight: 900;
+    margin: 0%;
+}
+
+h2
+{
+    background-color: rgb(231, 199, 94);
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 10%;
+    font-size: 24pt;
+}
+
+h3
+{
+    font-size: 20pt;
+    margin: 0%;
+}
+
+.projectButton
+{
+    background-color: rgb(231, 199, 94);
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    border-radius: 10%;
+    font-size: 24pt;
+    width: 30%;
+    margin: auto;
+}
+
+.grid-container 
+{
+    display: grid;
+    grid-template-columns: 25% auto;
+    grid-template-rows: auto auto;
+    background-color: rgb(253, 232, 162);
+    margin: auto;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    padding: 5%;
+    gap: 0.25%;
+}
+
+.grid-item {
+    background-color: rgb(252, 232, 169);
+    border: 4px solid rgba(0, 0, 0, 0.8);
+    padding: 1%;
+    font-size: 24px;
+    text-align: left;
+}
+
+.grid-picture 
+{
+    background-color: rgb(252, 232, 169);
+    /* border: 4px solid rgba(0, 0, 0, 0.8); */
+    padding: 20px;
+    font-size: 24px;
+    text-align: left; 
+}
+
+.grid-ref
+{
+    margin: 0%;
+    width: 300%;
+    
+}
+
+.grid-Intro
+{
+    background-color: rgb(252, 232, 169);
+    /* border: 4px solid rgba(0, 0, 0, 0.8); */
+    padding: 20px;
+    font-size: 24px;
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#PfpContentID
+{
+    width: 95%;
+    border-radius: 50% ;
+    border-style: dashed;
+    border-color: rgb(17, 144, 248);
+    padding: 1mm;
+    text-align: center;
+}
+
+div
+{
+    text-align: center;
+}
+
+ol
+{
+    font-size: 95%;
+    text-align: left;
+    width: 80%;
+}
+
+li,ul
+{
+    font-size: 95%;
+    text-align: left;
+    width: 100%;
+}
+
+body
+{
+    background-color: rgb(253, 239, 193);
+    /* width: 95%; */
+}
+
+#computer
+{
+    border-style: dotted;
+    border-radius: 5%;
+    width: 20%;
+    padding: 1%;
+}
+
+#joystick
+{
+    border-style: dotted;
+    border-radius: 5%;
+    width: 20%;
+    padding: 1%;
+}
+
+#listening
+{
+    border-style: dotted;
+    border-radius: 5%;
+    width: 20%;
+    padding: 1%;
+}
+
+#social
+{
+    border-style: dotted;
+    border-radius: 5%;
+    width: 20%;
+    padding: 1%;
+}
+
+#unity
+{
+    border-radius: 50%;
+    width: 20%;
+    padding: 1%;
+}
+
+#VSCode
+{
+    border-radius: 50%;
+    width: 20%;
+    padding: 1%;
+}
+
+#PRPro
+{
+    border-radius: 50%;
+    width: 20%;
+    padding: 1%;
+}
+
+#photoshop
+{
+    border-radius: 50%;
+    width: 20%;
+    padding: 1%;
+}
+
+#afterEff
+{
+    border-radius: 50%;
+    width: 20%;
+    padding: 1%;
+}
+
+#maya
+{
+    border-radius: 50%;
+    width: 20%;
+    padding: 1%;
+}
+
