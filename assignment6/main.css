@@ -1,0 +1,24 @@
+div
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: rgb(230, 203, 255);
+
+}
+
+form
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: dashed;
+    border-color: blue;
+    padding: 3%;
+}
+
+#meme
+{
+    width: 10%;
+    border-radius: 25%;
+}

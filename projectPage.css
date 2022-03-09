@@ -1,6 +1,6 @@
 body
 {
-    background-color: rgb(253, 239, 193);
+    background-color: rgb(255, 210, 143);
 }
 
 .grid-container 
@@ -34,9 +34,56 @@ body
     text-align: left;
 }
 
+@media only screen and (max-width: 1050px)
+{
+    .grid-container 
+    {
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: auto;
+        background-color: rgb(253, 232, 162);
+        vertical-align: middle;
+        border-style: solid;
+        border-color: black;
+        padding: 10%;
+        padding-bottom: 30%;
+        margin: auto;
+        gap: 0.25%;
+    }
+
+    .grid-item {
+        background-color: rgb(252, 232, 169);
+        border: 4px solid rgba(0, 0, 0, 0.8);
+        padding: 1%;
+        font-size: 24px;
+        text-align: center;
+        width: 97%;
+    }
+
+    .grid-text {
+        background-color: rgb(252, 232, 169);
+        border: 4px solid rgba(0, 0, 0, 0.8);
+        padding: 1%;
+        font-size: 24px;
+        margin: auto;
+        text-align: left;
+    }
+
+}
+
 h1
 {
     color:rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 32pt;
+    font-weight: 900;
+    margin: 0%;
+}
+
+.toggleChangeColor
+{
+    color:rgb(0, 3, 172);
     font-family: sans-serif;
     text-align: left;
     font-size: 32pt;
@@ -76,4 +123,9 @@ h2
 video
 {
     width: 100%;
+}
+
+a
+{
+    font-size: 32pt;
 }

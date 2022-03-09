@@ -1,0 +1,43 @@
+div
+{
+    text-align: center;
+}
+
+body
+{
+    background-color: blanchedalmond;
+    border: 5px solid rgb(0, 47, 255);
+    border-style: double;
+}
+
+textarea
+{
+    margin: auto;
+    width: 70%;
+}
+
+.typearea
+{
+    margin: auto;
+    border: 5px solid rgb(197, 127, 255);
+    border-style: dashed;
+    width: 30%;
+    
+}
+
+.commentarea
+{
+    border: 5px solid rgb(0, 183, 255);
+    border-style: dotted;
+    margin: auto;
+    width: 50%;
+    height: 50px;
+    text-align: center;
+    font-size: 30pt;
+}
+
+#xD
+{
+    width: 20%;
+
+}
