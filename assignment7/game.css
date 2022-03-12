@@ -9,7 +9,7 @@
     width: 500px;
     height: 500px;
     
-    border: 3px solid black;
+    border: 3px dotted blue;
 }
 
 .square {
@@ -28,4 +28,9 @@
 
 .green{
     background-color: green; 
+}
+
+body
+{
+    background-color: blanchedalmond;
 }
